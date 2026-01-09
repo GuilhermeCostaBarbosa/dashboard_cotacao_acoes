@@ -29,12 +29,14 @@ O objetivo é permitir que o usuário selecione diferentes ativos, filtre perío
 
 ## 📂 Estrutura do Projeto
 
+```text
 dashboard_cotacao_acoes/
 │
 ├── main.py # Código principal do dashboard
 ├── requirements.txt # Dependências do projeto
 ├── IBOV.csv # Base de ativos do Ibovespa
 └── README.md
+```
 
 ## 📦 Instalação e Execução Local
 
