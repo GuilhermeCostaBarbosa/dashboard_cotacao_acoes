@@ -40,12 +40,12 @@ dashboard_cotacao_acoes/
 
 ### Rode o projeto 
 ```bash
-***git clone https://github.com/seu-usuario/dashboard-cotacao-acoes.git
+git clone https://github.com/seu-usuario/dashboard-cotacao-acoes.git
 cd dashboard-cotacao-acoes
 
 pip install -r requirements.txt
 
-streamlit run main.py***
+streamlit run main.py
 ```
 
 
